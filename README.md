@@ -1,3 +1,3 @@
 # demorepo
 My first repository
-Author - Vansh
+Author - Vansh (DTU)
